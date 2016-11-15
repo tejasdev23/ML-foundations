@@ -1,0 +1,450 @@
+Pointers
+------------
+0x7f4d944505a3
+0x7f4d92f31886
+0x7f4d93f15d44
+0x7f4d93f3006d
+0x7f4d946d7781
+Raw
+------------
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f4d944505a3]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f4d92f31886]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f4d93f15d44]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f4d93f3006d]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f4d946d7781]
+
+Demangled
+------------
+__print_back_trace()
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f4d944505a3
+0x7f4d92f31886
+0x7f4d93f15d44
+0x7f4d93f3006d
+0x7f4d946d7781
+Raw
+------------
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f4d944505a3]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f4d92f31886]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f4d93f15d44]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f4d93f3006d]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f4d946d7781]
+
+Demangled
+------------
+__print_back_trace()
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f4d944505a3
+0x7f4d92f31886
+0x7f4d93f15d44
+0x7f4d93f3006d
+0x7f4d946d7781
+Raw
+------------
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f4d944505a3]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f4d92f31886]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f4d93f15d44]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f4d93f3006d]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f4d946d7781]
+
+Demangled
+------------
+__print_back_trace()
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f4d944505a3
+0x7f4d92f31886
+0x7f4d93f15d44
+0x7f4d93f3006d
+0x7f4d946d7781
+Raw
+------------
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f4d944505a3]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f4d92f31886]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f4d93f15d44]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f4d93f3006d]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f4d946d7781]
+
+Demangled
+------------
+__print_back_trace()
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f4d944505a3
+0x7f4d92f31886
+0x7f4d93f15d44
+0x7f4d93f3006d
+0x7f4d946d7781
+Raw
+------------
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f4d944505a3]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f4d92f31886]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f4d93f15d44]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f4d93f3006d]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f4d946d7781]
+
+Demangled
+------------
+__print_back_trace()
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f4d944505a3
+0x7f4d92f31886
+0x7f4d93f15d44
+0x7f4d93f3006d
+0x7f4d946d7781
+Raw
+------------
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f4d944505a3]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f4d92f31886]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f4d93f15d44]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f4d93f3006d]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f4d946d7781]
+
+Demangled
+------------
+__print_back_trace()
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f4d944505a3
+0x7f4d92f31886
+0x7f4d93f15d44
+0x7f4d93f3006d
+0x7f4d946d7781
+Raw
+------------
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f4d944505a3]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f4d92f31886]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f4d93f15d44]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f4d93f3006d]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f4d946d7781]
+
+Demangled
+------------
+__print_back_trace()
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f4d944505a3
+0x7f4d92f31886
+0x7f4d93f15d44
+0x7f4d93f3006d
+0x7f4d946d7781
+Raw
+------------
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f4d944505a3]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f4d92f31886]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f4d93f15d44]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f4d93f3006d]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f4d946d7781]
+
+Demangled
+------------
+__print_back_trace()
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f4d944505a3
+0x7f4d92f31886
+0x7f4d93f15d44
+0x7f4d93f3006d
+0x7f4d946d7781
+Raw
+------------
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f4d944505a3]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f4d92f31886]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f4d93f15d44]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f4d93f3006d]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f4d946d7781]
+
+Demangled
+------------
+__print_back_trace()
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f4d944505a3
+0x7f4d92f31886
+0x7f4d93f15d44
+0x7f4d93f3006d
+0x7f4d946d7781
+Raw
+------------
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f4d944505a3]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f4d92f31886]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f4d93f15d44]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f4d93f3006d]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f4d946d7781]
+
+Demangled
+------------
+__print_back_trace()
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f4d944505a3
+0x7f4d92f31886
+0x7f4d93f15d44
+0x7f4d93f3006d
+0x7f4d946d7781
+Raw
+------------
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f4d944505a3]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f4d92f31886]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f4d93f15d44]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f4d93f3006d]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f4d946d7781]
+
+Demangled
+------------
+__print_back_trace()
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f4d944505a3
+0x7f4d92f31886
+0x7f4d93f15d44
+0x7f4d93f3006d
+0x7f4d946d7781
+Raw
+------------
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f4d944505a3]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f4d92f31886]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f4d93f15d44]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f4d93f3006d]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f4d946d7781]
+
+Demangled
+------------
+__print_back_trace()
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f4d944505a3
+0x7f4d92f31886
+0x7f4d93f15d44
+0x7f4d93f3006d
+0x7f4d946d7781
+Raw
+------------
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f4d944505a3]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f4d92f31886]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f4d93f15d44]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f4d93f3006d]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f4d946d7781]
+
+Demangled
+------------
+__print_back_trace()
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f4d944505a3
+0x7f4d92f31886
+0x7f4d93f15d44
+0x7f4d93f3006d
+0x7f4d946d7781
+Raw
+------------
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f4d944505a3]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f4d92f31886]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f4d93f15d44]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f4d93f3006d]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f4d946d7781]
+
+Demangled
+------------
+__print_back_trace()
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f4d944505a3
+0x7f4d92f31886
+0x7f4d93f15d44
+0x7f4d93f3006d
+0x7f4d946d7781
+Raw
+------------
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f4d944505a3]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f4d92f31886]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f4d93f15d44]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f4d93f3006d]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f4d946d7781]
+
+Demangled
+------------
+__print_back_trace()
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f4d944505a3
+0x7f4d92f31886
+0x7f4d93f15d44
+0x7f4d93f3006d
+0x7f4d946d7781
+Raw
+------------
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f4d944505a3]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f4d92f31886]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f4d93f15d44]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f4d93f3006d]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f4d946d7781]
+
+Demangled
+------------
+__print_back_trace()
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f4d944505a3
+0x7f4d92f31886
+0x7f4d93f15d44
+0x7f4d93f3006d
+0x7f4d946d7781
+Raw
+------------
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f4d944505a3]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f4d92f31886]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f4d93f15d44]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f4d93f3006d]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f4d946d7781]
+
+Demangled
+------------
+__print_back_trace()
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
+Pointers
+------------
+0x7f4d944505a3
+0x7f4d92f31886
+0x7f4d93f15d44
+0x7f4d93f3006d
+0x7f4d946d7781
+Raw
+------------
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(_Z18__print_back_tracev+0x93) [0x7f4d944505a3]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886) [0x7f4d92f31886]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44) [0x7f4d93f15d44]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d) [0x7f4d93f3006d]
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781) [0x7f4d946d7781]
+
+Demangled
+------------
+__print_back_trace()
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x425886)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1409d44)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x142406d)
+/home/tejas/.local/lib/python2.7/site-packages/graphlab/cython/../libunity_shared.so(+0x1bcb781)
+-------------------------------------------------------
+
+
